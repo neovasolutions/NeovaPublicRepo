@@ -5,11 +5,11 @@ variable "account" {
 
 variable "user" {
   type = string
-  default = "tf-snow"
+  # default = "userName"
 }
 variable "password" {
   type = string
-  default = "Snow@123"
+  # default = "YourPassword"
 }
 
 variable "role" {
