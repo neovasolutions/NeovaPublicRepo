@@ -1,0 +1,6 @@
+config:
+  snowflake:account: eg18116.ap-southeast-1
+#  snowflake:region: AWS_AP_SOUTH_1
+  snowflake:username: prashant
+  snowflake:password: Password@123
+  snowflake:role: ACCOUNTADMIN
